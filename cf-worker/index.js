@@ -3,7 +3,7 @@
 /**
  * static files (404.html, sw.js, conf.js)
  */
-const ASSET_URL = 'https://github.com/EtherDream/jsproxy-browser/tree/master/www'
+const ASSET_URL = 'https://github.com/sprindjack/jsproxy-browser/tree/master/www'
 
 const JS_VER = 10
 const MAX_RETRY = 1
